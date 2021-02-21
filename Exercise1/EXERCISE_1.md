@@ -54,14 +54,14 @@ Allow the designer to choose the base color and highlight color for Items/Bots a
 ## Questions ##
 
  1. How can your implementation be optimized?
-   * The current linq sort in the Common.Prefabs.Player.Presenter is likely running the distance measurements more than necessary
-   * I am currently only measuring from transform to transform. This does not account for geometry.
+    * The current linq sort in the Common.Prefabs.Player.Presenter is likely running the distance measurements more than necessary
+    * I am currently only measuring from transform to transform. This does not account for geometry.
  1. How much time did you spend on your implementation?
-   * Not particularly fast. I finished around 10am(ish) and prob started a few hours earlier.
+    * Not particularly fast. I finished around 10am(ish) and prob started a few hours earlier.
  1. What was most challenging for you?
-   * zenject took some tinkering and reading to get going, but seems a viable IOC solution.
+    * zenject took some tinkering and reading to get going, but seems a viable IOC solution.
  1. What else would you add to this exercise?
-   * I did not address the "Optional" items and would like to have.
+    * I did not address the "Optional" items and would like to have.
 
 ## Optional ##
 
