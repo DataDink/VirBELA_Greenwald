@@ -47,11 +47,11 @@ This test is broken into multiple phases. You can implement one phase at a time 
 ## Questions ##
 
  1. How much time did you spend on your implementation?
-   * Between 1-2 hours
+    * Between 1-2 hours
  1. What was most challenging for you?
-   * I discovered some of my environments on this computer were out of date so I had to spend some time getting things sorted in order to complete the exercise.
+    * I discovered some of my environments on this computer were out of date so I had to spend some time getting things sorted in order to complete the exercise.
  1. What else would you add to this exercise?
-   * I didn't tackle the "Optional" items even though they are probably easy wins. This is just due to needing to get to other priorities today.
+    * I didn't tackle the "Optional" items even though they are probably easy wins. This is just due to needing to get to other priorities today.
 
 ## Optional ##
 
