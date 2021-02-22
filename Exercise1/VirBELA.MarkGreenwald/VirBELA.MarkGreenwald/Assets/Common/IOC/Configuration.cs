@@ -3,7 +3,11 @@ using UnityEngine;
 using Common.Integration;
 using Common.Actors;
 using Common.Prefabs;
-
+/*
+    This should probably have been put in with the scene it belongs to.
+    It allows design-time configuration of player, item, and robot prefabs
+    and configures the PrefabFactories for them.
+*/
 namespace Common.IOC
 {
     /// <summary>

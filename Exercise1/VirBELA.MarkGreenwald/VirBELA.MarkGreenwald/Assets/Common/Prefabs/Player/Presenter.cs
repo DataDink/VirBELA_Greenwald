@@ -3,6 +3,10 @@ using System.Collections;
 using System.Linq;
 using Common.Actors;
 using UnityEngine;
+/*
+    This guy represents an instance of a Player and provides
+    an interface for working with it.
+*/
 
 namespace Common.Prefabs.Player
 {
@@ -44,7 +48,7 @@ namespace Common.Prefabs.Player
         private IActor GetClosestActor() {
             return Registry.Registrations
                 .Where(a => !(a is Player.Presenter))
-                .OrderBy(actor => 
+                .OrderBy(actor => // TODO: This is sub-optimal
                     Math.Sqrt( // Does not account for the actor geometries
                         Math.Pow(actor.Transform.position.x - this.Transform.position.x, 2) +
                         Math.Pow(actor.Transform.position.y - this.Transform.position.y, 2) +

@@ -2,6 +2,10 @@ using UnityEngine;
 
 namespace Common.Prefabs
 {
+    /*
+        See comments for PrefabFactory<TPresenter>
+    */
+
     /// <summary>
     /// Inject a factory for a prefab's presenter to get a factory that
     /// will create a new prefab

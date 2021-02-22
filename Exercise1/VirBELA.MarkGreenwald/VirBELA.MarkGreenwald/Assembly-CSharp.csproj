@@ -271,19 +271,19 @@
         <HintPath>/Users/Mark/Documents/Unity/2020.2.4f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
     <Reference Include="Zenject-usage">
-        <HintPath>/Users/Mark/Desktop/virbela/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Assets/Plugins/Zenject/Source/Usage/Zenject-usage.dll</HintPath>
+        <HintPath>/Users/Mark/Documents/GitHub/VirBELA_Greenwald/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Assets/Plugins/Zenject/Source/Usage/Zenject-usage.dll</HintPath>
     </Reference>
     <Reference Include="Zenject.ReflectionBaking.Mono.Cecil.Pdb">
-        <HintPath>/Users/Mark/Desktop/virbela/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Assets/Plugins/Zenject/OptionalExtras/ReflectionBaking/Lib/Zenject.ReflectionBaking.Mono.Cecil.Pdb.dll</HintPath>
+        <HintPath>/Users/Mark/Documents/GitHub/VirBELA_Greenwald/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Assets/Plugins/Zenject/OptionalExtras/ReflectionBaking/Lib/Zenject.ReflectionBaking.Mono.Cecil.Pdb.dll</HintPath>
     </Reference>
     <Reference Include="Zenject.ReflectionBaking.Mono.Cecil.Rocks">
-        <HintPath>/Users/Mark/Desktop/virbela/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Assets/Plugins/Zenject/OptionalExtras/ReflectionBaking/Lib/Zenject.ReflectionBaking.Mono.Cecil.Rocks.dll</HintPath>
+        <HintPath>/Users/Mark/Documents/GitHub/VirBELA_Greenwald/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Assets/Plugins/Zenject/OptionalExtras/ReflectionBaking/Lib/Zenject.ReflectionBaking.Mono.Cecil.Rocks.dll</HintPath>
     </Reference>
     <Reference Include="Zenject.ReflectionBaking.Mono.Cecil.Mdb">
-        <HintPath>/Users/Mark/Desktop/virbela/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Assets/Plugins/Zenject/OptionalExtras/ReflectionBaking/Lib/Zenject.ReflectionBaking.Mono.Cecil.Mdb.dll</HintPath>
+        <HintPath>/Users/Mark/Documents/GitHub/VirBELA_Greenwald/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Assets/Plugins/Zenject/OptionalExtras/ReflectionBaking/Lib/Zenject.ReflectionBaking.Mono.Cecil.Mdb.dll</HintPath>
     </Reference>
     <Reference Include="Zenject.ReflectionBaking.Mono.Cecil">
-        <HintPath>/Users/Mark/Desktop/virbela/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Assets/Plugins/Zenject/OptionalExtras/ReflectionBaking/Lib/Zenject.ReflectionBaking.Mono.Cecil.dll</HintPath>
+        <HintPath>/Users/Mark/Documents/GitHub/VirBELA_Greenwald/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Assets/Plugins/Zenject/OptionalExtras/ReflectionBaking/Lib/Zenject.ReflectionBaking.Mono.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
         <HintPath>/Users/Mark/Documents/Unity/2020.2.4f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -637,31 +637,31 @@
         <HintPath>/Users/Mark/Documents/Unity/2020.2.4f1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/mscorlib.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>/Users/Mark/Desktop/virbela/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>/Users/Mark/Documents/GitHub/VirBELA_Greenwald/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>/Users/Mark/Desktop/virbela/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>/Users/Mark/Documents/GitHub/VirBELA_Greenwald/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>/Users/Mark/Desktop/virbela/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+        <HintPath>/Users/Mark/Documents/GitHub/VirBELA_Greenwald/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>/Users/Mark/Desktop/virbela/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>/Users/Mark/Documents/GitHub/VirBELA_Greenwald/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>/Users/Mark/Desktop/virbela/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>/Users/Mark/Documents/GitHub/VirBELA_Greenwald/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>/Users/Mark/Desktop/virbela/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>/Users/Mark/Documents/GitHub/VirBELA_Greenwald/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>/Users/Mark/Desktop/virbela/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>/Users/Mark/Documents/GitHub/VirBELA_Greenwald/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>/Users/Mark/Desktop/virbela/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>/Users/Mark/Documents/GitHub/VirBELA_Greenwald/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>/Users/Mark/Desktop/virbela/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>/Users/Mark/Documents/GitHub/VirBELA_Greenwald/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

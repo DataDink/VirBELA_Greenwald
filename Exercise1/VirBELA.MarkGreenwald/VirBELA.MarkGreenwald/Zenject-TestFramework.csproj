@@ -284,7 +284,7 @@
         <HintPath>/Users/Mark/Documents/Unity/2020.2.4f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>/Users/Mark/Desktop/virbela/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+        <HintPath>/Users/Mark/Documents/GitHub/VirBELA_Greenwald/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
         <HintPath>/Users/Mark/Documents/Unity/2020.2.4f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -638,16 +638,16 @@
         <HintPath>/Users/Mark/Documents/Unity/2020.2.4f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/Facades/netstandard.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-        <HintPath>/Users/Mark/Desktop/virbela/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+        <HintPath>/Users/Mark/Documents/GitHub/VirBELA_Greenwald/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-        <HintPath>/Users/Mark/Desktop/virbela/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+        <HintPath>/Users/Mark/Documents/GitHub/VirBELA_Greenwald/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>/Users/Mark/Desktop/virbela/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>/Users/Mark/Documents/GitHub/VirBELA_Greenwald/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>/Users/Mark/Desktop/virbela/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>/Users/Mark/Documents/GitHub/VirBELA_Greenwald/Exercise1/VirBELA.MarkGreenwald/VirBELA.MarkGreenwald/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

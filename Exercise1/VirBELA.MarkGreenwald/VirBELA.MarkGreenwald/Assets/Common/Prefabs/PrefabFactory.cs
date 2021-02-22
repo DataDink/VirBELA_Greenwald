@@ -3,6 +3,19 @@ using Zenject;
 
 namespace Common.Prefabs
 {
+    /*
+        This guy exists to instantiate prefabs and provide them
+        injection services. There is a PrefabFactory in zenject
+        but its usage wasn't terribly straight forward and this
+        saved time.
+
+        There are 2 ways to do this. I am currently creating an
+        instance for each prefab as it is wired up design time
+        in the Unity editor (see Common.IOC.Configuration).
+        Alternatively you could register the presenters themselves
+        and have injection construct the factories for you.
+    */
+
     /// <summary>
     /// Requested by interface & presenter type for prefab construction
     /// with injection services

@@ -1,5 +1,8 @@
 using Common.Actors;
-
+/*
+    This guy represents an instance of a Robot and provides
+    a basic interface for working with it.
+*/
 namespace Common.Prefabs.Robot
 {
     /// <summary>
